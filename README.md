@@ -8,10 +8,10 @@ I'm Mohammed Basheeruddin Bilal, an enthusiastic software engineer 👨‍💻 ,
 - 💬 Ask me about: Web development, Soft skills.
 - 📫 How to reach me: [Click here](https://www.linkedin.com/in/mohammedbasheeruddinbilal/)
 
-### **Stats :** 
+<!-- ### **Stats :**  -->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=basheer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/basheer-97/basheer-97)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=basheer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/basheer-97/basheer-97) -->
 
 <!-- --- -->
 
